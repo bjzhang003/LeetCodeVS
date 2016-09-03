@@ -1,0 +1,3 @@
+﻿  LeetCode.cpp
+f:\cppfile\leetcode\leetcode\hard_214.h(38): warning C4018: “<”: 有符号/无符号不匹配
+f:\cppfile\leetcode\leetcode\leetcode.cpp(35): error C2026: 字符串太大，已截断尾部字符

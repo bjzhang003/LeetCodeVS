@@ -1,0 +1,966 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Easy_006.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_007.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_008.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_009.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_013.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_014.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_019.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_020.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_021.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_026.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_027.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_028.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_036.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_038.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_058.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_066.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_067.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_070.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_083.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_088.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_100.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_101.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_102.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_104.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_107.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_110.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_111.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_112.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_118.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_119.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_125.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_155.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_160.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="File_ListNode.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="File_TreeLinkNode.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="File_TreeNode.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="File_UndirectedGraphNode.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_004.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_004_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_010.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_023.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_023_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_001.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_001_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_002.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_003.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_003_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_005.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_005_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_011.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_011_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_012.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_015.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_015_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_016.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_017.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_018.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_022.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_022_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_024.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_029.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_029_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_031.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_034.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_035.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_039.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_040.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_043.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_046.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_047.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_048.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_049.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_050.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_053.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_054.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_055.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_059.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_060.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_060_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_060_2.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_061.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_062.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_062_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_062_2.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_063.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_063_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_064.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_064_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_064_2.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_069.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_071.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_073.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_074.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_075.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_077.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_078.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_079.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_080.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_081.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_082.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_086.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_089.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_090.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_091.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_092.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_093.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_094.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_095.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_098.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_103.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_105.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_105_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_108.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_109.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_113.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_114.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_116.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_120.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_121.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_121_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_122.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_127.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_127_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_129.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_130.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_131.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_133.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_134.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_134_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_136.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_136_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_137.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_139.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_141.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_142.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_143.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_144.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_147.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_148.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_150.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_151.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_152.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_153.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_162.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_165.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_166.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_168.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_169.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_171.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_172.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_179.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_187.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_189.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_189_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_190.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_191.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_198.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_198_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_199.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_200.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_201.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_202.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_203.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_204.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_205.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_206.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_207.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_209.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_210.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_213.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_207_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassTest.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_215.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_216.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_217.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_219.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_220.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_221.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_033.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_338.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_335.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_222.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="A_Binary_Search.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="A_Sort_Algorithm.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_223.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_230.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_231.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_232.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_234.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_235.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_236_IMPORT.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_237.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_238.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_240.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_240_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_241.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_025.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_032.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_030.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_030_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_033_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_041.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_045.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_042_R.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_041_R.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_045_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="File_Interval.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_056.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_057.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_065.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_068.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_072.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_097.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_084.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_051.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_085.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_096.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_087.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_344.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_292.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_258.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_226.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_283.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_242.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_126.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_343.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_336.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_336_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="A_Trie_Tree.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="A_StrNum.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_132.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_132_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_260.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_319.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_268.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_318.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_318_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_287.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_328.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_321.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_322.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_322_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_319_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_279.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_264.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_313.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_274.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_164.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_076.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_139_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_128.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_214.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_135.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_299.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_290.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_257.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_303.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_347.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_357.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_337.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_309.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_173.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_313_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_300.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_289.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_334.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_229.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_220_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_222_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_044.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_044_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_126_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_275.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_368.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_367.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_324.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_307.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Easy_371.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_295.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_228.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_327.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_327_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_315.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_316.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_145.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="File_Point.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_149.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_373.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_331.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="A_Template_Test.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="A_FileStream.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_376.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_377.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_227.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_377_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_224.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_208.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_117.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_123.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_123_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_188.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_310.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_310_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_188_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_138.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="File_RandomListNode.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_354.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_329.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_140.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_140_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_239.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_233.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hard_233_1.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Medium_167.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="LeetCode.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
